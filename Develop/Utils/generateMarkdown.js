@@ -65,7 +65,7 @@ function generateMarkdown(data) {
 
   ## Building Blocks
 
-  ${data.buildingblocks}
+  ${data.building-blocks}
 
   ## Usage
 

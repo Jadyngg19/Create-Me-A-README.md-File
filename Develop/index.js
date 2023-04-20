@@ -26,7 +26,7 @@ const questions = [
 
     {
         type: "input",
-        name: "building-blocks",
+        name: "technologies",
         message: "Please list the technologies used to create this project.",
     },
 

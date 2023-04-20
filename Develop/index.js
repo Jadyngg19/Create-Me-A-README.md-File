@@ -83,7 +83,7 @@ function writeToFile(fileName, data) {
 function init() {
     inquirer.prompt(questions).then((responses) => {
         console.log("Putting README.md file together...");
-        writeToFile("./Develop/README.md", generateMarkdown({...responses}));
+        writeToFile("/Users/jadyn/Bootcamp/Create-Me-A-README.md-File/Develop/index.js", generateMarkdown({...responses}));
     });
 }
 

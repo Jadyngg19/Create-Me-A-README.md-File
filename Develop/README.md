@@ -26,7 +26,7 @@
   2. Click on the "Search" button or press "Enter".  
   3. The app will display the current weather conditions and forecast for the location you searched for.
 
-  ![WeatherApp](../Bootcamp/What-Is-The-Weather-Like/Develop/Images/Screenshot 2023-04-03 at 8.32.20 AM)
+  ![WeatherApp](./Images/Screenshot%202023-04-03%20at%208.32.20%20AM.png)
 
   ## Features
 

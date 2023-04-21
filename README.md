@@ -22,6 +22,8 @@ To use this application, navigate to the repository in your terminal and run the
 
 You will be prompted with a series of questions to fill out the sections of your README file. Once you have answered all of the questions, a README.md file will be generated in the Develop folder.
 
+![Inputting Information to Generate a README.md](./Develop/Images/Inputting%20Information%20to%20Generate%20a%20README.png)
+
 ## Features 
 
 1. Generates a README file with a itle, description, installation instructions, usage information, license, contributing guidelines, and contact information.

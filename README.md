@@ -26,7 +26,7 @@ You will be prompted with a series of questions to fill out the sections of your
 
 ## Features 
 
-1. Generates a README file with a itle, description, installation instructions, usage information, license, contributing guidelines, and contact information.
+1. Generates a README file with a title, description, installation instructions, usage information, license, contributing guidelines, and contact information.
 2. Allows the user to choose from a list of licenses to add to their README file.
 3. Prompts the user with a series of questions to fill in the appropriate sections of the README file.
 4. Includes a badge at the top of the README file that displays the selected license.

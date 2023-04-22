@@ -16,7 +16,7 @@
 
   To use the Weather App, you would search for a city of your choosing and the information would display
 
-  ![Screenshot]((./Images/Screenshot%202023-04-03%20at%208.32.20%20AM.png))
+  ![Screenshot](./Images/Screenshot%202023-04-03%20at%208.32.20%20AM.png)
 
   ## Features
 
